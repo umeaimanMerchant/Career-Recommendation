@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./rs_env/Lib/site-packages"
+    ]
+}

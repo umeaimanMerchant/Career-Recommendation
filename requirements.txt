@@ -16,4 +16,3 @@ PyPDF2
 pyresparser
 streamlit
 flask==2.0.1
-git

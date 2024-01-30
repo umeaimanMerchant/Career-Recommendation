@@ -15,5 +15,5 @@ ftfy
 PyPDF2
 pyresparser
 streamlit
-flask
+flask==2.0.1
 git
